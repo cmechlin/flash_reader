@@ -1,5 +1,5 @@
-venv/
-pycache/
+.venv/
+__pycache__/
 *.py[cd]
 *.log
 .vscode/
